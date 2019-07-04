@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="faker_elixir_octopus" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/faker_elixir_octopus/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/faker_elixir_octopus/lib" />
+    </SOURCES>
+  </library>
+</component>
